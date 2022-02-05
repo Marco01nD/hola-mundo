@@ -1,4 +1,4 @@
-# hola-mundo
-mi primer repositorio Launch X
+# hellow-World
+mi primer repositorio en la plataforma launch
 
-Autor Marco Raziel Bartolo Medina
+Autor Marco
